@@ -1,0 +1,10 @@
+.prenav{
+    display: grid;
+    background-color: black;
+    grid-template-columns: 5fr 2fr;
+    color: white;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
